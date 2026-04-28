@@ -4,7 +4,7 @@ Short-video platforms have reshaped how users consume content, encouraging frequ
 This project analyzes large-scale behavioral data to understand how user activity, such as watch time, session frequency, and temporal habits, relates to addiction levels. It combines exploratory analysis with machine learning to identify key behavioral signals and evaluate their predictive power.
 
 👉 Start here: main_notebook.ipynb  
-🎥 Project Video: https://yourlink.com
+🎥 Project Video: https://www.youtube.com/watch?v=CgLI7cHL2ac
 
 ### Research Questions
 
