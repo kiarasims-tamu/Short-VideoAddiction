@@ -7,6 +7,7 @@ This project analyzes large-scale behavioral data to understand how user activit
 🎥 Project Video: https://yourlink.com
 
 Results Summary:
+
 The analysis shows that short-video addiction is strongly associated with increasing behavioral intensity, particularly in the form of frequent sessions and prolonged watch time.
 
 Users with higher addiction levels cluster in regions of both high session frequency and high total consumption, while lower-engagement users remain in low-activity regions. Temporal patterns further reveal concentrated late-night usage, indicating structured and potentially compulsive behavior.
