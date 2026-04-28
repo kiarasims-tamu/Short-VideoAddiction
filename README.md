@@ -6,6 +6,22 @@ This project analyzes large-scale behavioral data to understand how user activit
 👉 Start here: main_notebook.ipynb  
 🎥 Project Video: https://yourlink.com
 
+Research Questions
+
+RQ1: What behavioral patterns distinguish addicted users?
+RQ2: How do usage patterns vary over time?
+RQ3: Can addiction levels be predicted from behavioral data?
+
+Dataset
+
+The dataset contains user-level behavioral and temporal features, including:
+
+Daily watch time and session activity
+Hourly usage across 24 hours
+Content diversity (unique categories viewed)
+Demographic attributes (e.g., age, gender)
+Addiction labels (non, mild, severe)
+
 Results Summary:
 
 The analysis shows that short-video addiction is strongly associated with increasing behavioral intensity, particularly in the form of frequent sessions and prolonged watch time.
