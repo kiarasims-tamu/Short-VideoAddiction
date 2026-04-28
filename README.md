@@ -6,17 +6,34 @@ This project analyzes large-scale behavioral data to understand how user activit
 👉 Start here: main_notebook.ipynb  
 🎥 Project Video: https://yourlink.com
 
-Research Questions
+### Research Questions
 
 - RQ1: What behavioral patterns distinguish addicted users?
 - RQ2: How do usage patterns vary over time?
 - RQ3: Can addiction levels be predicted from behavioral data?
 
-Dataset
+### Dataset
 
-👉 Download: Dataset.csv
+👉 Download: dataset.csv
 
-Results Summary:
+### How to Reproduce
+
+This project was developed using Google Colab.
+
+Clone the repository:
+
+git clone <repo-link>
+cd <repo-name>
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Open and run:
+
+main_notebook.ipynb
+
+### Results Summary:
 
 The analysis shows that short-video addiction is strongly associated with increasing behavioral intensity, particularly in the form of frequent sessions and prolonged watch time.
 
