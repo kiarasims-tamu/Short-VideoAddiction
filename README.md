@@ -34,18 +34,13 @@ Open and run:
 main_notebook.ipynb
 
 ### Repository Structure
-.
+<pre>.
 ├── main_notebook.ipynb        # Final curated analysis (start here)
-
 ├── requirements.txt          # Environment dependencies
-
 ├── README.md
-
 ├── dataset.csv    
-
 ├── checkpoint_1.ipynb
-
-├── checkpoint_2.ipynb
+├── checkpoint_2.ipynb</pre>
 
 ### Results Summary:
 
