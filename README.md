@@ -33,6 +33,15 @@ Open and run:
 
 main_notebook.ipynb
 
+### Repository Structure
+.
+├── main_notebook.ipynb        # Final curated analysis (start here)
+├── requirements.txt          # Environment dependencies
+├── README.md
+├── dataset.csv           
+├── checkpoint_1.ipynb
+├── checkpoint_2.ipynb
+
 ### Results Summary:
 
 The analysis shows that short-video addiction is strongly associated with increasing behavioral intensity, particularly in the form of frequent sessions and prolonged watch time.
